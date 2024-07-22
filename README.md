@@ -4,7 +4,7 @@ Key Question:
 
 How do imitation learning models simulate brain activity differently from traditional deep neural networks (DNNs)?
 
-Other objectives:
+Other Objectives:
 
 - How can imitation learning models illustrate the interactions and connectivity between different brain regions over time?
 - How do the hierarchical layers of AlexNet align with human brain activity in terms of temporal and spatial dimensions as compared to MEG and fMRI data?
