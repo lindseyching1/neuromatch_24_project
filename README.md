@@ -1,4 +1,4 @@
-# neuromatch_24_project
+# NeuroMatch 2024 Project: Imitation Learning
 
 Key Question:
 
